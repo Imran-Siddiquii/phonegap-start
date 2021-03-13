@@ -52,7 +52,7 @@ Replace `<h1>Apache Cordova</h1>` with `<h1>PhoneGap</h1>`.
 
     $ git commit -am "Version x.x.x"
 
-#### 5. Tag
+#### 5. Tags
 
     $ git tag x.x.x
 
